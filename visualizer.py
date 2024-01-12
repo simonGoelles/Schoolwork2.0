@@ -6,6 +6,9 @@ def visualize_data(data):
     timestamps = [entry['timestamp'] for entry in data]
     prices = [entry['price'] for entry in data]
 
+    print("Timestamps:", timestamps)
+    print("Prices:", prices)
+
     plt.plot(timestamps, prices, marker='o', linestyle='-', color='b')
     plt.xlabel('Timestamp')
     plt.ylabel('Price')

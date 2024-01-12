@@ -1,0 +1,5 @@
+name,timestamp,price,currency,location
+  Lenzing,1975-05-27 18:25:12,34.75, EUR, Vienna
+  Andritz,1975-05-27 18:25:31,59.41, USD, New York
+  EVN,1975-05-27 18:25:32,28.55, EUR, Vienna
+  EVN,1975-05-27 18:25:33,31.18, USD, New York
